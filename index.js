@@ -7,6 +7,6 @@ let square = () =>{
   return Math.pow(x , x)
 }
 
-let add = () =>{
-  
+let add = (num1,num2) =>{
+  return num1 + num2
 }
