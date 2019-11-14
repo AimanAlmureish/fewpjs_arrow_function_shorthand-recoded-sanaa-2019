@@ -3,5 +3,5 @@ let divide = () =>{
 }
 
 let square = () =>{
-  return 5 * Math.pow(5)
+  return Math.pow(5)
 }
